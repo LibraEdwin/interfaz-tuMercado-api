@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-app-web-circolo",
+  "private_key_id": "41a340388dc4b2f79f6b8c1ef9c847482620abaa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZ2DFUe1XEM4Dd\nTvcjMe8zBNEqqu9sRz5Y4kPwSc4yN6dkwW7stqwkiO0L3DnGg5lFjhtfXzpCfUvV\n2TWmAMI7ricOuzAhi5yX0/cphNndIuePAySe6aYqE4CHEYj9EfQF8ISKJ8jScMlt\nx5AO8GbN6JmQRsNbix1kZ0DVQrMSVOArbZPWipId++yCYpRO5m636wPXg8/rO1Up\nIYmqJpOVCih8q6nbPakx/g/4d21ZSucXT1s1P8qb5VH6jfTPOg2Crq8tY8uK7SNe\nHBiqFpE6UPWfk4P9fHXdYQHpmYIYvnLtys0u+w4UodZ7L/7v+1n8YppoiQZvhmCs\niJo/BAB5AgMBAAECggEAAriSSclbJ1rWWAO0JwsUbRl0Fh47GRYK/iE1XKf/hb+a\nfjOWIclq0sQZtjSdUHumH7bvWMDbS88BwvziICciCFJwlif9JlC88qoA9HrpLAo4\noHzInmdpRRP+eVUX8ErrnxnFjFh/CqrMQzzs+TirBtAK/ERmIuW7XbneSY9SEbxH\nzBLCC9psLhRn8eAV1sVIe3fMH5OBDxekDNwRNlfT0sMRPssTfU8SZPu6iyWM8z8L\nbscO7JXeL5760wDspR5/TznF9+CpkOJpnn5fd+ypjONc/WQreOsaH9MKB8DiN/MY\n/ZJeGZ+uKlVe5AJXsAc0CTJvvODnbCFGCuvGdreJ0QKBgQDHKWeBF09Lf8Uf6aOg\n15bd1VQz0Nk2FDnpFF86Vj0AOnkDI+sDjLkm4QbKiBYZMm38ofO33aBIGvPCYe+P\ngipLbuoCbZJ7vdcxFe4ZvlnqGQqp05T9jchC8uFf0AR4GVmgLJgOAyAiJqTZ6V0Q\nucnT8QXyW/jFXZDIIBCJ3Hj4aQKBgQDFv/Kqq+na+krIAci0RxwM82xAAB98o08F\njGjY4sUgDAyTR/Oh8U1/oE8VUeGY4got8REqOeGKgx2UIJx8UM/ySPnw7tTGaw7S\nsU8a4FV9rkFTf4rv4C+l6mEv6GfMHKSGod40JOtIr6vT4DQ6vUVqBIWAaytItbVm\nJodiPdNFkQKBgBVNhna2aZLnzcwGD6yKouaDhQgt1K4GJ9OYjD8PLmMx3fPKCb9N\ndBiGhVVwjPyQ+lbFc+481IIh7+Tg2OD+yUtcR8eOtNZrjfMAJ4G1bKSvnQZhTVR5\nr+wJUrYO6At4mq+ZVYJaLzu36nYskfnSBZaX90zfLZLe2TeuxlYYsQ/RAoGACsA7\nxjGgfio7ZJJMQhjXmpClYvlevNz4D9opXRk/FFXzXRJ9WWGQEA88HXGdLT2kxgik\nIUKSU4B7XDFFsLCIDakQBZxGbx8k6CmBnnlxzGpr3MlDWXU7we5zKDKfagZon3Uv\nanBTZlk+oz8+N69Qlcn3JBsveD2AxjP0ClBIKzECgYEAqkmBCbO7nLryi/LPAU9d\nrEB3mxAAM054uTeC2xBuB2UXzVDbbaI+wVZHgSdw0+cjC/jCfiCS73z5TBkyRMl1\niEZtXAzsUBsDMwOfNdsIcW1+Ydy2BmgbN3tm0H70MYHoKWF83xj6TRrQDDeWmnpw\nNs8ra7Wnwao7trbwzurQAfA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "acount-gcs@project-app-web-circolo.iam.gserviceaccount.com",
+  "client_id": "109033075660544199934",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acount-gcs%40project-app-web-circolo.iam.gserviceaccount.com"
+}
